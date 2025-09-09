@@ -1,0 +1,13 @@
+Assignment 01
+/*
+ * Write  a Java program that demonstrates various operations on a 3D array.
+Like  a) Initialization
+	b) Display Elements
+	c) Find Max Value
+      d) Calculate Average Values
+ */
+
+Assignment 02
+/*
+ * Write a Java program that performs addition of two matrices using user input using Wrapper Class.
+ */
